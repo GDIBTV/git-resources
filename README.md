@@ -13,3 +13,7 @@
 [Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/#!workflow-gitflow): an overview of different ways that teams can use git.
 
 Have fun with Git!
+
+
+Upstream and origin may be difficult at first, but eventually it all makes sense!
+
