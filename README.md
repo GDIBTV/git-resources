@@ -11,3 +11,5 @@
 [Atlassian's Git Tutorials](https://www.atlassian.com/git/tutorials"): from the creator of (among other things) [SourceTree](https://www.atlassian.com/software/sourcetree/overview), a free visual git tool for Mac &amp; Windows.
 
 [Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/#!workflow-gitflow): an overview of different ways that teams can use git.
+
+Upstream and origin may be difficult at first, but eventually it all makes sense!
